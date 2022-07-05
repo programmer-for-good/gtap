@@ -1,4 +1,4 @@
-module gtap
+module github.com/programmer-for-good/gtap
 
 go 1.18
 
